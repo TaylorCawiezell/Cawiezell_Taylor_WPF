@@ -40,7 +40,44 @@ var leftPP = people % slicesPP;
 var leftTotal = leftPP * people;
 
 
-console.log(leftTotal); 
+console.log(leftTotal + "is the amount sparky will get"); 
+
+
+
+
+//Expression Worksheet Priblem 4: Average shopping bill
+
+//creating array for the 5 weeks of groceries.
+
+var groceries = [69,200,99,160,50];
+//expression for getting average.
+var average = (groceries[0] + groceries[1] + groceries[2] + groceries[3] + groceries[4]) / 5;
+
+console.log(average + " is the average of the past five weeks groceries");
+
+
+
+
+//Expression Worksheet Problem 5: Discounts
+
+var originalPrice = 120;
+
+var discount = .20;
+
+var salesTax = 1.06;
+
+var sale = originalPrice * discount;
+
+var totalWithTax = originalPrice - sale * salesTax;
+
+var totalWithOut = sale - originalPrice
+
+console.log(totalWithTax);
+
+
+
+
+ 
 
 
 
