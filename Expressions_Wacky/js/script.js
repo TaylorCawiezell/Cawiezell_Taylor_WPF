@@ -1,17 +1,16 @@
-//Taylor Cawiezell 6/13/2013: Assignment:Expressions- Industry
+// Taylor Cawiezell 6/13/2013: Assignment:Expression - Whacky
 
-alert("BestBuy has many employees and a huge work enviorment. Lets find out in comparison on average how many square feet each employee gets.");
+alert("Hello! I am the unbiased calculator. Lets find out who won E3 2013.");
+//calculate sony's score
+var sony = prompt("On a scale of 1-100, How would you rate Sony at this years E3?");
+//calculate nintendo's score'
+var nintendo = prompt("On a scale of 1-100, How would you rate Nintendo at this years E3?");
+//calculate microsoft's score'
+var microsoft = prompt("On a scale of 1-100, How would you rate microsoft at this years E3?");
+//The Joke is the answer is always "nintendo"
+var winner = "The winner is Nintendo."
 
-// Im calculating the number of total square footage and deviding it by the number of employees.
+alert(winner);
 
-var bestBuy = prompt("How many BestBuy stores are there in our calculation?");
 
-var size = prompt("How many square feet does each store have?");
 
-var employee = prompt("How many employees are in each store?");
-
-var totalSQ = bestBuy * size;
-
-var totalPE = bestBuy * size / employee;
-
-alert("Out of " + totalSQ + " total square feet there are " + totalPE + "square feet per emloyee".);
