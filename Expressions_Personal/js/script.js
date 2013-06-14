@@ -10,7 +10,7 @@ var hoursD = prompt("How many hours should I play a day?");
 var life = prompt("How many years will I live?");
 
 var total = daysP * hoursD * 52 * life;
-alert("I will play" + total + "hours of video games in my lifetime.")
+alert("I will play " + total + " hours of video games in my lifetime.")
 
 
 
