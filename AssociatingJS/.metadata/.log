@@ -56,3 +56,13 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86 -keyring /Users/Taylor/.
 
 !ENTRY org.eclipse.core.net 1 0 2013-06-12 21:49:02.659
 !MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2013-06-19 17:30:02.293 -----------------------------------------------
+eclipse.buildId=3.4.0.201304151603
+java.version=1.6.0_43
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/Taylor/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -keyring /Users/Taylor/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-19 17:30:16.422
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences

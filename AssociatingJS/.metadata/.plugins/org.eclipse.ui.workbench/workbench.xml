@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="38" version="2.0">
+<workbench progressCount="31" version="2.0">
 <workbenchAdvisor/>
-<window height="874" width="1200" x="377" y="22">
+<window height="868" width="1200" x="652" y="22">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -18,7 +18,7 @@
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="152" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
 <coolItem id="com.aptana.editor.js" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="com.aptana.editor.css" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.css" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="com.aptana.editor.html" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
@@ -29,28 +29,23 @@
 <info part="DefaultEditorWorkbook">
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="1"/>
 <part id="0"/>
-<part id="2"/>
+<part id="1"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="com.aptana.editor.js" name="script.js" partName="script.js" title="script.js" tooltip="/Users/Taylor/Documents/WPS Schoolwork/AssociatingJS/js/script.js" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/AssociatingJS/js/script.js"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="16" selectionTopPixel="0"/>
+<editor id="com.aptana.editor.js" name="script.js" partName="script.js" title="script.js" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Expressions_worksheet/js/script.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_worksheet/js/script.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1582" selectionTopPixel="401"/>
 </editor>
-<editor id="com.aptana.editor.html" name="index.html" partName="index.html" title="index.html" tooltip="/Users/Taylor/Documents/WPS Schoolwork/AssociatingJS/index.html" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/AssociatingJS/index.html"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="7" selectionTopPixel="0"/>
-</editor>
-<editor id="com.aptana.editor.css" name="styles.css" partName="styles.css" title="styles.css" tooltip="/Users/Taylor/Documents/WPS Schoolwork/AssociatingJS/css/styles.css" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/AssociatingJS/css/styles.css"/>
+<editor activePart="true" focus="true" id="com.aptana.editor.html" name="index.html" partName="index.html" title="index.html" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Expressions_worksheet/index.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_worksheet/index.html"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views/>
-<perspectives activePart="com.aptana.editor.js" activePerspective="com.aptana.ui.WebPerspective">
+<perspectives activePart="com.aptana.editor.html" activePerspective="com.aptana.ui.WebPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="com.aptana.ui.internal.WebPerspectiveFactory" id="com.aptana.ui.WebPerspective" label="Web"/>
 <alwaysOnActionSet id="com.aptana.browser.actionSet"/>
@@ -136,159 +131,164 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/AssociatingJS/js/script.js"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/AssociatingJS/index.html"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/AssociatingJS/js/script.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_Personal/js/script.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_Wacky/index.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_Wacky/js/script.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_Industry/js/script.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_Wacky/index.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_Personal/index.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_worksheet/js/script.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_worksheet/index.html"/>
 </editors>
+<item historyLabel="script.js" index="2">
+<position/>
+</item>
 <item historyLabel="index.html" index="1">
-<position info="not_deleted" x="224" y="0"/>
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position/>
+</item>
+<item historyLabel="index.html" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position/>
+</item>
+<item historyLabel="index.html" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position/>
+</item>
+<item historyLabel="index.html" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position/>
+</item>
+<item historyLabel="index.html" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position/>
+</item>
+<item historyLabel="index.html" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position/>
+</item>
+<item historyLabel="index.html" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position/>
+</item>
+<item historyLabel="script.js" index="3">
+<position/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="604" y="0"/>
+</item>
+<item historyLabel="index.html" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="604" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="603" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="600" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="165" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="545" y="0"/>
+</item>
+<item historyLabel="index.html" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="140" y="0"/>
+</item>
+<item historyLabel="index.html" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="600" y="0"/>
+</item>
+<item historyLabel="index.html" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="601" y="0"/>
+</item>
+<item historyLabel="index.html" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="600" y="0"/>
+</item>
+<item historyLabel="index.html" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="0" y="0"/>
 </item>
 <item historyLabel="script.js" index="0">
-<position info="not_deleted" x="120" y="0"/>
+<position info="not_deleted" x="685" y="0"/>
 </item>
-<item historyLabel="script.js" index="0">
-<position/>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="script.js" index="0">
-<position info="not_deleted" x="27" y="0"/>
+<item historyLabel="script.js" index="3">
+<position info="not_deleted" x="721" y="0"/>
 </item>
-<item historyLabel="script.js" index="0">
-<position/>
+<item historyLabel="script.js" index="6">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="script.js" index="0">
-<position info="not_deleted" x="121" y="0"/>
+<item historyLabel="script.js" index="6">
+<position info="not_deleted" x="1307" y="0"/>
 </item>
-<item historyLabel="script.js" index="0">
-<position/>
+<item historyLabel="script.js" index="6">
+<position info="not_deleted" x="1306" y="0"/>
 </item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="224" y="0"/>
+<item historyLabel="index.html" index="7">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="script.js" index="0">
-<position/>
+<item historyLabel="script.js" index="6">
+<position info="not_deleted" x="1306" y="0"/>
 </item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="224" y="0"/>
+<item historyLabel="index.html" index="7">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="script.js" index="0">
-<position info="not_deleted" x="122" y="0"/>
+<item historyLabel="script.js" index="6">
+<position info="not_deleted" x="1307" y="0"/>
 </item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="224" y="0"/>
+<item historyLabel="index.html" index="7">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="script.js" index="0">
-<position info="not_deleted" x="122" y="0"/>
+<item historyLabel="script.js" index="6">
+<position info="not_deleted" x="1136" y="0"/>
 </item>
-<item historyLabel="script.js" index="0">
-<position info="not_deleted" x="121" y="0"/>
+<item historyLabel="index.html" index="7">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="script.js" index="0">
-<position/>
+<item historyLabel="script.js" index="6">
+<position info="not_deleted" x="1585" y="0"/>
 </item>
-<item historyLabel="script.js" index="0">
-<position info="not_deleted" x="121" y="0"/>
+<item historyLabel="index.html" index="7">
+<position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="224" y="0"/>
+<item historyLabel="script.js" index="6">
+<position info="not_deleted" x="1582" y="0"/>
 </item>
-<item historyLabel="script.js" index="0">
-<position/>
-</item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="224" y="0"/>
-</item>
-<item historyLabel="script.js" index="0">
-<position info="not_deleted" x="121" y="0"/>
-</item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="224" y="0"/>
-</item>
-<item historyLabel="script.js" index="0">
-<position info="not_deleted" x="62" y="0"/>
-</item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="224" y="0"/>
-</item>
-<item historyLabel="script.js" index="2">
-<position/>
-</item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="166" y="0"/>
-</item>
-<item historyLabel="script.js" index="2">
-<position/>
-</item>
-<item historyLabel="script.js" index="2">
-<position/>
-</item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="166" y="0"/>
-</item>
-<item historyLabel="script.js" index="2">
-<position info="not_deleted" x="81" y="0"/>
-</item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="166" y="0"/>
-</item>
-<item historyLabel="script.js" index="2">
-<position/>
-</item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="7" y="0"/>
-</item>
-<item historyLabel="script.js" index="2">
-<position/>
-</item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="7" y="0"/>
-</item>
-<item historyLabel="script.js" index="2">
-<position/>
-</item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="7" y="0"/>
-</item>
-<item historyLabel="script.js" index="2">
-<position/>
-</item>
-<item historyLabel="script.js" index="2">
-<position info="not_deleted" x="21" y="0"/>
-</item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="7" y="0"/>
-</item>
-<item historyLabel="script.js" index="2">
-<position/>
-</item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="7" y="0"/>
-</item>
-<item historyLabel="script.js" index="2">
-<position info="not_deleted" x="130" y="0"/>
-</item>
-<item historyLabel="script.js" index="2">
-<position/>
-</item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="7" y="0"/>
-</item>
-<item historyLabel="script.js" index="2">
-<position info="not_deleted" x="31" y="0"/>
-</item>
-<item historyLabel="script.js" index="2">
-<position/>
-</item>
-<item historyLabel="script.js" index="2">
-<position info="not_deleted" x="82" y="0"/>
-</item>
-<item historyLabel="script.js" index="2">
-<position info="not_deleted" x="17" y="0"/>
-</item>
-<item historyLabel="index.html" index="1">
-<position info="not_deleted" x="7" y="0"/>
-</item>
-<item active="true" historyLabel="script.js" index="2">
-<position info="not_deleted" x="17" y="0"/>
+<item active="true" historyLabel="index.html" index="7">
+<position info="not_deleted" x="0" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -307,6 +307,30 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Expressions_worksheet/index.html">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_worksheet/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Expressions_worksheet/js/script.js">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_worksheet/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Expressions_Industry/js/script.js">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_Industry/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Expressions_Personal/js/script.js">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_Personal/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Expressions_Personal/index.html">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_Personal/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Expressions_Wacky/index.html">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_Wacky/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Expressions_Wacky/js/script.js">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_Wacky/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Expressions_Industry/index.html">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_Industry/index.html"/>
+</file>
 <file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="styles.css" tooltip="/Users/Taylor/Documents/WPS Schoolwork/AssociatingJS/css/styles.css">
 <persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/AssociatingJS/css/styles.css"/>
 </file>
