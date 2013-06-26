@@ -7,7 +7,7 @@
 // giving the funtion its parameter.
 function numberOfstings(weight, sting ){
 	var death = weight * sting;
-    console.log(death);
+    console.log("It takes " + death + " bee stings to kill an animal that weighs " + weight + " pounds.");
 };
 // testing functions aurgument.
 numberOfstings(1, 8.666666667);
