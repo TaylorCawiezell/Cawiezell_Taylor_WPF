@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="38" version="2.0">
+<workbenchAdvisor/>
+<window height="868" width="1200" x="327" y="22">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="106" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="144" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="68" y="22"/>
+<coolItem id="com.aptana.ui.globalActionSet" itemType="typeToolBarContribution" x="150" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="76" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="152" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="com.aptana.editor.js" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.css" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.html" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1370802348454" focus="true" label="Workspace - Web">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor activePart="true" focus="true" id="com.aptana.editor.js" name="script.js" partName="script.js" title="script.js" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Week 3/Conditionals_Wacky/js/script.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Week%203/Conditionals_Wacky/js/script.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="269" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views/>
+<perspectives activePart="com.aptana.editor.js" activePerspective="com.aptana.ui.WebPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.aptana.ui.internal.WebPerspectiveFactory" id="com.aptana.ui.WebPerspective" label="Web"/>
+<alwaysOnActionSet id="com.aptana.browser.actionSet"/>
+<alwaysOnActionSet id="com.aptana.ruby.debug.ui.RubyDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="com.aptana.editor.common.presentation"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="com.aptana.js.debug.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.presentation"/>
+<alwaysOnActionSet id="com.aptana.ui.globalActionSet"/>
+<alwaysOnActionSet id="com.aptana.terminal.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<show_view_action id="com.aptana.browser.views.webbrowser"/>
+<show_view_action id="com.aptana.explorer.view"/>
+<show_view_action id="com.aptana.samples.ui.SamplesView"/>
+<show_view_action id="com.aptana.snippets.ui.views.SnippetsView"/>
+<show_view_action id="com.aptana.terminal.views.terminal"/>
+<show_view_action id="com.aptana.ui.io.remoteview"/>
+<show_view_action id="com.aptana.webserver.ui.view"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<new_wizard_action id="com.aptana.ruby.core.ui.rubyProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.new.file"/>
+<new_wizard_action id="com.aptana.editor.php.NewPHPProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.NewWebProject"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.radrails.rails.ui.projectWizard"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder appearance="2" expanded="2">
+<page content="com.aptana.explorer.view" label="LabelNotFound"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="com.aptana.ui.io.remoteview" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="894" ratioRight="298" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.19966443" ratioLeft="238" ratioRight="954" relationship="2" relative="left"/>
+<info folder="true" part="terminalArea" ratio="0.74938875" ratioLeft="613" ratioRight="205" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="com.aptana.terminal.views.terminal" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.pde.runtime.LogView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@15b44d6" ratio="0.74938875" ratioLeft="613" ratioRight="205" relationship="4" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="com.aptana.samples.ui.SamplesView" label="LabelNotFound"/>
+<page content="com.aptana.snippets.ui.views.SnippetsView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Conditionals_worksheet/index.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Conditionals_worksheet/js/script.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Week%203/Conditionals_Industry/js/script.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Week%203/Conditionals_Industry/index.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Week%203/Conditionals_Personal/js/script.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Week%203/Conditionals_Personal/index.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Week%203/Conditionals_Wacky/js/script.js"/>
+</editors>
+<item historyLabel="script.js" index="1">
+<position/>
+</item>
+<item historyLabel="script.js" index="1">
+<position info="not_deleted" x="639" y="0"/>
+</item>
+<item historyLabel="script.js" index="1">
+<position info="not_deleted" x="639" y="0"/>
+</item>
+<item historyLabel="script.js" index="1">
+<position/>
+</item>
+<item historyLabel="script.js" index="1">
+<position info="not_deleted" x="651" y="0"/>
+</item>
+<item historyLabel="script.js" index="1">
+<position/>
+</item>
+<item historyLabel="script.js" index="1">
+<position info="not_deleted" x="600" y="0"/>
+</item>
+<item historyLabel="script.js" index="1">
+<position/>
+</item>
+<item historyLabel="script.js" index="1">
+<position/>
+</item>
+<item historyLabel="script.js" index="1">
+<position info="not_deleted" x="609" y="0"/>
+</item>
+<item historyLabel="script.js" index="1">
+<position info="not_deleted" x="552" y="0"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="705" y="0"/>
+</item>
+<item historyLabel="index.html" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="705" y="0"/>
+</item>
+<item historyLabel="index.html" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="705" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="697" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="692" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="463" y="0"/>
+</item>
+<item historyLabel="index.html" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="463" y="0"/>
+</item>
+<item historyLabel="index.html" index="3">
+<position info="not_deleted" x="208" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="463" y="0"/>
+</item>
+<item historyLabel="index.html" index="3">
+<position info="not_deleted" x="216" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="463" y="0"/>
+</item>
+<item historyLabel="index.html" index="3">
+<position info="not_deleted" x="216" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="463" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="692" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="571" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="689" y="0"/>
+</item>
+<item historyLabel="script.js" index="2">
+<position info="not_deleted" x="689" y="0"/>
+</item>
+<item historyLabel="index.html" index="3">
+<position info="not_deleted" x="216" y="0"/>
+</item>
+<item historyLabel="script.js" index="4">
+<position info="not_deleted" x="592" y="0"/>
+</item>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="4">
+<position info="not_deleted" x="592" y="0"/>
+</item>
+<item historyLabel="script.js" index="4">
+<position info="not_deleted" x="591" y="0"/>
+</item>
+<item historyLabel="script.js" index="4">
+<position info="not_deleted" x="494" y="0"/>
+</item>
+<item historyLabel="script.js" index="4">
+<position info="not_deleted" x="591" y="0"/>
+</item>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="4">
+<position info="not_deleted" x="591" y="0"/>
+</item>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="4">
+<position info="not_deleted" x="591" y="0"/>
+</item>
+<item historyLabel="script.js" index="4">
+<position info="not_deleted" x="597" y="0"/>
+</item>
+<item historyLabel="script.js" index="6">
+<position info="not_deleted" x="453" y="0"/>
+</item>
+<item historyLabel="script.js" index="6">
+<position/>
+</item>
+<item historyLabel="script.js" index="6">
+<position info="not_deleted" x="453" y="0"/>
+</item>
+<item active="true" historyLabel="script.js" index="6">
+<position/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Week 3/Conditionals_Wacky/js/script.js">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Week%203/Conditionals_Wacky/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Week 3/Conditionals_Personal/index.html">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Week%203/Conditionals_Personal/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Week 3/Conditionals_Personal/js/script.js">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Week%203/Conditionals_Personal/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Week 3/Conditionals_Industry/index.html">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Week%203/Conditionals_Industry/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Week 3/Conditionals_Industry/js/script.js">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Week%203/Conditionals_Industry/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Users/Taylor/Documents/WPS Schoolwork/AssociatingJS/js/script.js">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/AssociatingJS/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/Taylor/Documents/WPS Schoolwork/AssociatingJS/index.html">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/AssociatingJS/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Expressions_worksheet/index.html">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_worksheet/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Expressions_worksheet/js/script.js">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_worksheet/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Expressions_Industry/js/script.js">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_Industry/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Expressions_Personal/index.html">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_Personal/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Expressions_Wacky/index.html">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_Wacky/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Expressions_Wacky/js/script.js">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_Wacky/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/Taylor/Documents/WPS Schoolwork/Expressions_Industry/index.html">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/Expressions_Industry/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="styles.css" tooltip="/Users/Taylor/Documents/WPS Schoolwork/AssociatingJS/css/styles.css">
+<persistable uri="file:/Users/Taylor/Documents/WPS%20Schoolwork/AssociatingJS/css/styles.css"/>
+</file>
+</mruList>
+</workbench>
