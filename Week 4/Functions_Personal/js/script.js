@@ -1,21 +1,19 @@
-//functions work sheet- Cawiezell_Taylor_Function Worksheet  6/26/2013
+//Function Personal - Taylor Cawiezell - 06/26/2013 
 
 
-//STUNG!
+// Making a function to calculate how many times I will beat MegaMan 3 in my lifespan.(nes)
 
+// making the variable to output my function
+var beaten = megaMan3(5, 80 - 10);
 
-// giving the funtion its parameter.
-function numberOfstings(weight, sting ){
-	var death = weight * sting;
-    console.log("It takes " + death + " bee stings to kill an animal that weighs " + weight + " pounds.");
+// my functions parimeters
+function megaMan3(timesBeatY, yearsL){        
+	var total = timesBeatY * yearsL;
+	return total;
+
 };
-// testing functions aurgument.
-numberOfstings(1, 8.666666667);
-numberOfstings(10, 8.666666667);
-numberOfstings(100, 8.666666667);
-numberOfstings(1000, 8.666666667);
-numberOfstings(10000, 8.666666667);
-
+//output to console.log
+console.log("I will beat MegaMan Three " + beaten + " times in my lifetime.");
 
 
 	
