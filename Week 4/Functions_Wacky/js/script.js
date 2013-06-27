@@ -1,20 +1,38 @@
-//functions work sheet- Cawiezell_Taylor_Function Worksheet  6/26/2013
+//functions assignment - Wacky - Taylor Cawiezell - 06/26/2013
+
+// We need to find out if we can watch the entire first season of my little pony on netflix from out phone.
 
 
-//STUNG!
+
+// setting function paramiters
+function ponyWatch(episodeD, episodeSeason, data){
 
 
-// giving the funtion its parameter.
-function numberOfstings(weight, sting ){
-	var death = weight * sting;
-    console.log("It takes " + death + " bee stings to kill an animal that weighs " + weight + " pounds.");
+
+// making if statement
+if(episodeD * episodeSeason === data){
+	
+	prompt("You have just enough data to watch the entire first season.")
+	
+	
+	
+	
+	// making else if statment
+}else if(episodeD * episodeSeason > data){
+	alert( episodeSeason * episodeD  - data + " more megabytes are needed to watch the first season.")
+
+
+
+
+// making else statement
+}else{ 
+	alert("You have more that enought to watch the first season.")
+}
 };
-// testing functions aurgument.
-numberOfstings(1, 8.666666667);
-numberOfstings(10, 8.666666667);
-numberOfstings(100, 8.666666667);
-numberOfstings(1000, 8.666666667);
-numberOfstings(10000, 8.666666667);
+
+
+// setting aurgument
+ponyWatch( 1500, 26, prompt("How many gb's are on your data plan?") * 1000 );
 
 
 
